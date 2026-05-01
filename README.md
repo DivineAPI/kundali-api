@@ -36,38 +36,38 @@ Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-
 
 | Endpoint | Docs |
 |---|---|
-| Basic Astrological Details | [link](https://developers.divineapi.com/indian-api/kundli-api/basic-astrological-details/basic-astrological-details-api) |
-| Planetary Positions | [link](https://developers.divineapi.com/indian-api/kundli-api/planetary-positions/planetary-positions-kundli) |
-| Horoscope Charts | [link](https://developers.divineapi.com/indian-api/kundli-api/horoscope-charts/horoscope-charts-api) |
-| Ascendant Report | [link](https://developers.divineapi.com/indian-api/kundli-api/ascendant-report/ascendant-report-kundli) |
+| Basic Astrological Details | [link](https://developers.divineapi.com/indian-api/kundli-api/basic-astrological-details) |
+| Planetary Positions | [link](https://developers.divineapi.com/indian-api/kundli-api/planetary-positions) |
+| Horoscope Charts | [link](https://developers.divineapi.com/indian-api/kundli-api/horoscope-charts) |
+| Ascendant Report | [link](https://developers.divineapi.com/indian-api/kundli-api/ascendant-report) |
 | Bhava Kundli | [link](https://developers.divineapi.com/indian-api/kundli-api/bhava-kundli) |
-| Sudarshana Chakra | [link](https://developers.divineapi.com/indian-api/kundli-api/sudarshana-chakra/sudarshana-chakra-api) |
+| Sudarshana Chakra | [link](https://developers.divineapi.com/indian-api/kundli-api/sudarshana-chakra) |
 
 ### Dashas
 
 | Endpoint | Docs |
 |---|---|
-| Vimshottari Dasha | [link](https://developers.divineapi.com/indian-api/kundli-api/vimshottari-dasha/vimshottari-dasha-api) |
-| Kaal Chakra Dasha | [link](https://developers.divineapi.com/indian-api/kundli-api/kaal-chakra-dasha/kaal-chakra-dasha-api) |
-| Yogini Dasha | [link](https://developers.divineapi.com/indian-api/kundli-api/yogini-dasha/yogini-dasha-api) |
+| Vimshottari Dasha | [link](https://developers.divineapi.com/indian-api/kundli-api/vimshottari-dasha) |
+| Kaal Chakra Dasha | [link](https://developers.divineapi.com/indian-api/kundli-api/kaal-chakra-dasha) |
+| Yogini Dasha | [link](https://developers.divineapi.com/indian-api/kundli-api/yogini-dasha) |
 | Dasha Analysis | [link](https://developers.divineapi.com/indian-api/kundli-api/dasha-analysis) |
 
 ### Doshas
 
 | Endpoint | Docs |
 |---|---|
-| Kaal Sarpa Dosha | [link](https://developers.divineapi.com/indian-api/kundli-api/kaal-sarpa-dosha/kaal-sarpa-dosha-api-kundli) |
-| Manglik Dosha | [link](https://developers.divineapi.com/indian-api/kundli-api/manglik-dosha/manglik-dosha-api) |
+| Kaal Sarpa Dosha | [link](https://developers.divineapi.com/indian-api/kundli-api/kaal-sarpa-dosha) |
+| Manglik Dosha | [link](https://developers.divineapi.com/indian-api/kundli-api/manglik-dosha) |
 | Sadhe Sati | [link](https://developers.divineapi.com/indian-api/kundli-api/sadhe-sati) |
-| Pitra Dosha | [link](https://developers.divineapi.com/indian-api/kundli-api/pitra-dosha/pitra-dosha-api) |
+| Pitra Dosha | [link](https://developers.divineapi.com/indian-api/kundli-api/pitra-dosha) |
 
 ### Yogas & Deep Analysis
 
 | Endpoint | Docs |
 |---|---|
-| Yogas | [link](https://developers.divineapi.com/indian-api/kundli-api/yogas/yogas-api) |
+| Yogas | [link](https://developers.divineapi.com/indian-api/kundli-api/yogas) |
 | Jaimini Astrology | [link](https://developers.divineapi.com/indian-api/kundli-api/jaimini-astrology) |
-| Planet Analysis | [link](https://developers.divineapi.com/indian-api/kundli-api/planet-analysis/planet-analysis-api) |
+| Planet Analysis | [link](https://developers.divineapi.com/indian-api/kundli-api/planet-analysis) |
 | Bhinnashtakvarga | [link](https://developers.divineapi.com/indian-api/kundli-api/bhinnashtakvarga) |
 | Shadbala | [link](https://developers.divineapi.com/indian-api/kundli-api/shadbala) |
 
@@ -76,7 +76,7 @@ Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-
 | Endpoint | Docs |
 |---|---|
 | Gemstone Suggestions | [link](https://developers.divineapi.com/indian-api/kundli-api/gemstone-suggestions) |
-| Ghata Chakra | [link](https://developers.divineapi.com/indian-api/kundli-api/ghata-chakra/ghata-chakra-api) |
+| Ghata Chakra | [link](https://developers.divineapi.com/indian-api/kundli-api) |
 | Composite Friendship | [link](https://developers.divineapi.com/indian-api/kundli-api/composite-friendship) |
 | Kundali Transit | [link](https://developers.divineapi.com/indian-api/kundli-api/kundali-transit) |
 
@@ -121,7 +121,7 @@ Authenticate with a Bearer token in the `Authorization` header **and** pass `api
 | `tzone` | float | ✓ | Timezone offset from UTC | `5.5` |
 | `lan` | string | - | Language code (default `en`) | `en` |
 
-Full docs → **[developers.divineapi.com/indian-api/kundli-api/basic-astrological-details/basic-astrological-details-api](https://developers.divineapi.com/indian-api/kundli-api/basic-astrological-details/basic-astrological-details-api)**
+Full docs → **[developers.divineapi.com/indian-api/kundli-api/basic-astrological-details/basic-astrological-details-api](https://developers.divineapi.com/indian-api/kundli-api/basic-astrological-details)**
 
 ### Sample response
 
@@ -397,7 +397,7 @@ func main() {
 
 Code samples on this page are free to copy into your own projects, no attribution required. Marketing copy, logos, and the **DivineAPI** name are © 2026 DivineAPI, all rights reserved.
 
-For the terms that govern the API service itself, see [divineapi.com/terms](https://divineapi.com/terms).
+For the terms that govern the API service itself, see [divineapi.com/terms](https://divineapi.com/terms-service).
 
 ## Contact
 
