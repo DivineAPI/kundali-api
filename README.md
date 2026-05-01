@@ -18,7 +18,7 @@
 
 The **Kundali API** by DivineAPI is a suite of 23+ REST endpoints for Vedic birth chart (kundli) generation and analysis. Give a birth date, time and location, get back the full Vedic profile: planets, houses, nakshatras, dashas, doshas, yogas, divisional charts and remedies. Plain JSON over HTTPS, 25 languages, no SDK required.
 
-Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-api) (200+ astrology, horoscope, tarot and numerology endpoints).
+Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-api) (300+ astrology, horoscope, tarot and numerology endpoints).
 
 ## Why choose DivineAPI's Kundali API?
 
